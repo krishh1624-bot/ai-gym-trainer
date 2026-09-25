@@ -1,0 +1,4 @@
+# Tested target: Python 3.11 on Windows
+opencv-python>=4.8,<5
+mediapipe==0.10.21
+numpy<2
